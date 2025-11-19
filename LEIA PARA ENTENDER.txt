@@ -1,6 +1,0 @@
-token.json
-docs/token.json
-client_secret.json
-
-
-RETIREI ESSES ARQUIVOS NECESSÁRIOS PARA O FUNCIONAMENTO DO SISTEMA PARA SUBIR PARA O GITHUB
